@@ -31,6 +31,28 @@ class NotificationCell:UITableViewCell{
     @IBOutlet weak var createdDate: UILabel!
     @IBOutlet weak var createdTime: UILabel!
     
+    
+//    init() {
+//
+//        self.layer.cornerRadius = 10
+//        self.layer.shadowPath = self.createRectangle()
+//    }
+    
+//    required init?(coder aDecoder: NSCoder) {
+//        fatalError("init(coder:) has not been implemented")
+//    }
+    
+    override func draw(_ rect: CGRect) {
+        
+       let path = UIBezierPath.init(rect: self.bounds)
+       
+        UIColor.white.setStroke()
+        path.stroke()
+        
+        self.layer.cornerRadius = 10
+        self.layer.shadowOpacity=0.2
+        
+    }
 }
 
 class MYPARTSCollectionViewCell: UICollectionViewCell{

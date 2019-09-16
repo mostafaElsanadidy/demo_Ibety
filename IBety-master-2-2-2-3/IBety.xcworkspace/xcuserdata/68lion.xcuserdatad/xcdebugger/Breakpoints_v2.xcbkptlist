@@ -10,7 +10,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "IBety/Sources/Modules/Terms_ConditionsScreen/Implementations/TermsRouter.swift"
-            timestampString = "589710435.993703"
+            timestampString = "590327098.609874"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "32"
@@ -26,7 +26,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "IBety/Sources/Modules/CommunicateDetailsScreen/Implementations/CommunicateDetailsViewController.swift"
-            timestampString = "590104106.5727201"
+            timestampString = "590327098.610165"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "67"
@@ -41,24 +41,8 @@
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "IBety/Sources/Modules/ProDetailsPage/Implementations/ProDetailsInterector.swift"
-            timestampString = "589710435.994261"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "102"
-            endingLineNumber = "102"
-            landmarkName = "changeTitleOfPage(_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
             filePath = "IBety/Sources/Modules/CommunicateDetailsScreen/Implementations/CommunicateDetailsInterector.swift"
-            timestampString = "590082976.743596"
+            timestampString = "590326010.340433"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "23"
@@ -90,7 +74,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "IBety/Sources/Modules/ProDetailsPage/Implementations/ProDetailsViewController.swift"
-            timestampString = "590104106.575909"
+            timestampString = "590332493.645328"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "76"
@@ -106,7 +90,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "IBety/Sources/Modules/Terms_ConditionsScreen/Implementations/TermsPresenter.swift"
-            timestampString = "590104106.578123"
+            timestampString = "590327098.611141"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "32"
@@ -201,12 +185,12 @@
                   symbolName = "IBety.MyDetailsInterector.displayProfilePersonly() -&gt; ()"
                   moduleName = "IBety"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/68lion/Downloads/IBety-master-2-2-2-3/IBety/Sources/Modules/MyDetailsScreen/Implementations/MyDetailsInterector.swift"
-                  timestampString = "590249288.546713"
+                  urlString = "file:///Users/68lion/Documents/GitHub/demo_Ibety/IBety-master-2-2-2-3/IBety/Sources/Modules/MyDetailsScreen/Implementations/MyDetailsInterector.swift"
+                  timestampString = "590330550.389071"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "78"
-                  endingLineNumber = "78"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
                   offsetFromSymbolStart = "4813">
                </Location>
                <Location
@@ -216,12 +200,12 @@
                   symbolName = "closure #1 (Alamofire.DataResponse&lt;Any&gt;) -&gt; () in IBety.MyDetailsInterector.displayProfilePersonly() -&gt; ()"
                   moduleName = "IBety"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/68lion/Downloads/IBety-master-2-2-2-3/IBety/Sources/Modules/MyDetailsScreen/Implementations/MyDetailsInterector.swift"
-                  timestampString = "590249288.555545"
+                  urlString = "file:///Users/68lion/Documents/GitHub/demo_Ibety/IBety-master-2-2-2-3/IBety/Sources/Modules/MyDetailsScreen/Implementations/MyDetailsInterector.swift"
+                  timestampString = "590330550.401293"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "79"
-                  endingLineNumber = "79"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
                   offsetFromSymbolStart = "203">
                </Location>
             </Locations>
@@ -570,7 +554,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "IBety/Sources/Modules/SearchProjectsScreen/Implementations/SearchProjectsInterector.swift"
-            timestampString = "590104106.659148"
+            timestampString = "590327098.616419"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "164"
@@ -586,7 +570,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "IBety/Sources/Modules/SearchProjectsScreen/Implementations/SearchProjectsPresenter.swift"
-            timestampString = "590276592.061974"
+            timestampString = "590327098.616707"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "39"
@@ -602,7 +586,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "IBety/Sources/Modules/ProjectDetailsScreen/Implementations/ProjectDetailsPresenter.swift"
-            timestampString = "590104106.6700079"
+            timestampString = "590332493.646843"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "42"
@@ -618,7 +602,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "IBety/Sources/Modules/SearchProjectsScreen/Implementations/SearchProjectsPresenter.swift"
-            timestampString = "590276592.062708"
+            timestampString = "590327098.616937"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "72"
@@ -634,7 +618,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "IBety/Sources/Modules/SearchProjectsScreen/Implementations/SearchProjectsPresenter.swift"
-            timestampString = "590276592.063146"
+            timestampString = "590327098.617038"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "25"
@@ -650,7 +634,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "IBety/Sources/Modules/SearchProjectsScreen/Implementations/SearchProjectsPresenter.swift"
-            timestampString = "590276592.0636539"
+            timestampString = "590327098.617187"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "22"
@@ -688,6 +672,86 @@
             startingLineNumber = "64"
             endingLineNumber = "64"
             landmarkName = "swipeMade(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Segmentio/Segmentio/Source/Segmentio.swift"
+            timestampString = "590331289.531823"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "350"
+            endingLineNumber = "350"
+            landmarkName = "moveShapeLayerAtContext()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Segmentio/Segmentio/Source/Segmentio.swift"
+            timestampString = "590331289.5319099"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "340"
+            endingLineNumber = "340"
+            landmarkName = "moveShapeLayerAtContext()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Segmentio/Segmentio/Source/Segmentio.swift"
+            timestampString = "590331289.532033"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "358"
+            endingLineNumber = "358"
+            landmarkName = "moveShapeLayerAtContext()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Segmentio/Segmentio/Source/Segmentio.swift"
+            timestampString = "590331289.532118"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "488"
+            endingLineNumber = "488"
+            landmarkName = "itemInSuperview(ratio:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Segmentio/Segmentio/Source/Segmentio.swift"
+            timestampString = "590331289.532178"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "371"
+            endingLineNumber = "371"
+            landmarkName = "moveShapeLayerAtContext()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

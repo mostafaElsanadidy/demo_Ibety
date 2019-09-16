@@ -56,8 +56,7 @@ class NotificationTableViewController: UITableViewController {
 
         if let cell = cell as? NotificationCell{
             
-            cell.layer.cornerRadius = 10
-            cell.layer.shadowPath = cell.createRectangle()
+            
             let createdTime = notificationSettings[indexPath.row].dates!.updated_at!.date!.split{$0 == " "}.map(String.init)
             cell.cellTitle.text = notificationSettings[indexPath.row].title
             cell.cellBody.text = notificationSettings[indexPath.row].body
@@ -67,6 +66,8 @@ class NotificationTableViewController: UITableViewController {
        
         // Configure the cell...
 
+        
+        
         return cell
     }
     

@@ -105,24 +105,25 @@ class ProDetailsViewController: UIViewController {
         
         var content = [SegmentioItem]()
         
+
         var tornadoItem = SegmentioItem(
-            title: "معلومات التواصل",
-            image: UIImage(named: "active2"),
+            title: "Communication Info".localized,
+            image: UIImage(named: "Wi-Fi"),
             selectedImage: UIImage(named: "inactive2")
         )
         
         content.append(tornadoItem)
 
         tornadoItem = SegmentioItem(
-            title: "منتجات المشروعات",
-            image: UIImage(named: "active1"),
+            title: "Project Products".localized,
+            image: UIImage(named: "Picture"),
             selectedImage: UIImage(named: "inactive1")
         )
         content.append(tornadoItem)
         
          tornadoItem = SegmentioItem(
-            title: "معلومات المشروع",
-            image: UIImage(named: "active0"),
+            title: "Project Info".localized,
+            image: UIImage(named: "Portfolio"),
             selectedImage: UIImage(named: "inactive0")
         )
         
@@ -132,7 +133,7 @@ class ProDetailsViewController: UIViewController {
             content: content,
             style: .imageOverLabel,
             options: SegmentioOptions(
-                backgroundColor: #colorLiteral(red: 0.8039215803, green: 0.8039215803, blue: 0.8039215803, alpha: 1),
+                backgroundColor: #colorLiteral(red: 0.9999960065, green: 1, blue: 1, alpha: 0.9446436216),
                 segmentPosition: .fixed(maxVisibleItems: 3),
                 scrollEnabled: true,
                 indicatorOptions: SegmentioIndicatorOptions(
@@ -156,7 +157,7 @@ class ProDetailsViewController: UIViewController {
                     defaultState: SegmentioState(
                         backgroundColor: .clear,
                         titleFont: UIFont.systemFont(ofSize: UIFont.smallSystemFontSize),
-                        titleTextColor: .white
+                        titleTextColor: .gray
                     ),
                     selectedState: SegmentioState(
                         backgroundColor: .clear,

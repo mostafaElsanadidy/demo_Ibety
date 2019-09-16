@@ -4559,6 +4559,7 @@
                         <outlet property="editBttn" destination="W20-GY-TJv" id="EDA-zv-GUW"/>
                         <outlet property="passwordTextField" destination="CDg-Ia-Sq7" id="pNP-ZZ-jKS"/>
                         <outlet property="profileView" destination="PpD-2a-Xb7" id="df0-7U-U4E"/>
+                        <outlet property="saveBttn" destination="nWv-ja-WM4" id="P8q-9L-AcR"/>
                         <outlet property="userImageView" destination="yNg-6y-Jrj" id="iSR-6G-PwI"/>
                         <outlet property="userNameTextField" destination="kv2-6v-Dyg" id="dZs-sP-AGP"/>
                     </connections>

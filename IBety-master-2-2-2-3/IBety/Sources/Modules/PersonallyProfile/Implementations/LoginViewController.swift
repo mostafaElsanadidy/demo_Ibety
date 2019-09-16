@@ -67,8 +67,8 @@ class LoginViewController: UIViewController {
         userImageView.layer.borderColor = #colorLiteral(red: 0.4352941176, green: 0.4431372549, blue: 0.4745098039, alpha: 1)
         userImageView.layer.borderWidth = 4
         userImageView.layer.shadowOpacity = 0.5
-        saveBttn.layer.cornerRadius = 5
-        cancelBttn.layer.cornerRadius = 5
+        saveBttn?.layer.cornerRadius = 5
+        cancelBttn?.layer.cornerRadius = 5
         userNameTextField.layer.cornerRadius = 5
         passwordTextField.layer.cornerRadius = 5
              //   9740908054

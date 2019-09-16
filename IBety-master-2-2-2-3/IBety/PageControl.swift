@@ -18,6 +18,7 @@ class PageControl: UIPageControl {
 //        pageControl.inactiveImage = UIImage(named: "inactive")!
 //        pageControl.updateDots()
 //    }
+    
     override func layoutSubviews() {
         super.layoutSubviews()
         guard !subviews.isEmpty else { return }

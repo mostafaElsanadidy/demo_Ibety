@@ -38,7 +38,7 @@ class ProjectDetailsPresenter: ProjectDetailsViewToPresenterProtocol{
         contentView.sizeToFit()
         
         contentView.frame.size = CGSize.init(width: frame2.width, height: contentView.frame.height)
-        scrollView.frame.size.height += arg.frame.height - frame.height
+      //  scrollView.frame.size.height += arg.frame.height - frame.height
     }
     
     func viewWillAppear() {

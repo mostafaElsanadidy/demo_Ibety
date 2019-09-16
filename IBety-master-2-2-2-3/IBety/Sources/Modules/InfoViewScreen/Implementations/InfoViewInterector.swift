@@ -52,7 +52,7 @@ class InfoViewInterector: InfoViewPresentorToInterectorProtocol {
         let urlCountryStr = urlStr+"countries"
         let urlCategoryStr = urlStr+"categories"
         let method = HTTPMethod.get
-        alamofireFunction2(httpMethod: method, urlStr: urlCountryStr, dicOfHeader: dicOfHeader, dicOfBody: nil, userDefaultKey : "Countries_ListData")
+        alamofireFunction2(httpMethod: method, urlStr: urlCountryStr, dicOfHeader: dicOfHeader, dicOfBody: nil, userDefaultKey : "DefaultCities_ListData")
         alamofireFunction2(httpMethod: method,  urlStr: urlCategoryStr, dicOfHeader: dicOfHeader, dicOfBody: nil, userDefaultKey : "Categories_ListData")
     }
     
