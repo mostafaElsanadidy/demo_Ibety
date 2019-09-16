@@ -40,6 +40,7 @@ class ProjectDataRouter: ProjectDataPresenterToRouterProtocol {
         let viewController = self.mainstoryboard.instantiateViewController(withIdentifier: "MyProjectPartsViewController") as! MyProjectPartsViewController
         tabBarViewController.viewControllers![index] = viewController
         tabBarViewController.viewControllers![3].tabBarItem!.image = UIImage(named: "Group 656")
+             tabBarViewController.viewControllers![3].tabBarItem!.title = ""
         tabBarViewController.selectedIndex = index}
         
     }

@@ -29,10 +29,6 @@ class nameMyProductsInterector: MyProductsPresentorToInterectorProtocol {
     
     func deleteProduct(with selectIndex: Int) {
         
-        
-        
-        //        displayedProjectDetails = try! JSONDecoder().decode(projectCreationDetails.self, from: data2!)
-        
         let urlStr = "http://ibety.laraeast.com/api/projects"
         let projectID = UserDefaults.standard.integer(forKey: "ProjectID")
         

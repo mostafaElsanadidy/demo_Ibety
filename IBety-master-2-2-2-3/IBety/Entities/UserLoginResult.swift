@@ -269,6 +269,7 @@ struct projectCreationData:Decodable {
     var description:String?
     var owner: Owner_Data?
     var category:categoriesData?
+    var city:defaultCity?
     var address:String?
     var location:projectsDataLocation?
     var media:categoriesDataMedia?

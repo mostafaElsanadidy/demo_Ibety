@@ -25,9 +25,9 @@ class WelcomeViewController: UIViewController {
         
         WelcomeRouter.createModule(view: self)
         
-        skipBttn.setTitle("Skip".localized, for: .normal)
-        completeAsVisitorBttn.setTitle("Complete as a visitor".localized, for: .normal)
-        logoutBttn.setTitle("sign out".localized, for: .normal)
+        skipBttn?.setTitle("Skip".localized, for: .normal)
+        completeAsVisitorBttn?.setTitle("Complete as a visitor".localized, for: .normal)
+        logoutBttn?.setTitle("sign out".localized, for: .normal)
         presenter?.updateViews()
     }
     

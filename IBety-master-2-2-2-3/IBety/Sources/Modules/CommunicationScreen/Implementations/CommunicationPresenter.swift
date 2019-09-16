@@ -20,7 +20,7 @@ class CommunicationPresenter: CommunicationViewToPresenterProtocol {
         if L102Language.currentAppleLanguage() == "en" {
             
             if let firstView = view as? CommunicationViewController{
-                firstView.loopThroughSubViewAndFlipTheImageIfItsAUIImageView(subviews: firstView.view.subviews, cancelledTags: nil)}
+                firstView.loopThroughSubViewAndFlipTheImageIfItsAUIImageView(subviews: firstView.view.subviews, cancelledTags: [1])}
         }
         interector?.displayApplicationSettings()
     }
@@ -29,11 +29,11 @@ class CommunicationPresenter: CommunicationViewToPresenterProtocol {
         // Initialize the path.
         let path = UIBezierPath()
         
-        path.move(to: CGPoint(x: 0.0, y: 0.0))
+        path.move(to: CGPoint(x: 0.0, y: 4.0))
         
         path.addLine(to: CGPoint(x: rect.width/2, y: rect.height/2))
         print(rect.width)
-        path.addLine(to: CGPoint(x: rect.width, y: 0.0))
+        path.addLine(to: CGPoint(x: rect.width, y: 4.0))
         path.addLine(to: CGPoint(x: rect.width, y: rect.height+5.0))
         path.addLine(to: CGPoint(x: 0.0, y: rect.height+5.0))
         

@@ -56,7 +56,6 @@ class ProjectDetailsViewController: UIViewController {
         scrollView.isScrollEnabled = true
         scrollView.showsVerticalScrollIndicator = true
         scrollView.showsHorizontalScrollIndicator = true
-        contentView.layer.shadowPath = contentView.createRectangle()
 
         }
        // self.logoImageView.image
@@ -80,6 +79,7 @@ class ProjectDetailsViewController: UIViewController {
         presenter?.adjustUITextViewHeight(arg: IntroTextView, by: views as! [UIView])
         
 
+        contentView.layer.shadowPath = contentView.createRectangle()
         
 //            containerView.layer.cornerRadius = 10
 //            containerView.layer.shadowOpacity = 0.3

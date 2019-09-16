@@ -2,8 +2,8 @@
 target 'IBety' do
 use_frameworks!
 pod 'DropDown'
-pod 'Segmentio', '~> 3.3'
 pod 'BATabBarController'
+pod 'Segmentio', '~> 3.3'
 pod 'SSCustomTabbar'
 pod 'SwiftyJSON', '~> 4.0'
 pod 'Alamofire', '~> 4.0'

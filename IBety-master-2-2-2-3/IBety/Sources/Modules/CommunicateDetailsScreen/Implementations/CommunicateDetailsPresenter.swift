@@ -18,7 +18,7 @@ class CommunicateDetailsPresenter:CommunicateDetailsViewToPresenterProtocol {
         if L102Language.currentAppleLanguage() == "en" {
             
             if let firstView = view as? CommunicateDetailsViewController{
-                firstView.loopThroughSubViewAndFlipTheImageIfItsAUIImageView(subviews: firstView.view.subviews, cancelledTags: [1])}
+                firstView.loopThroughSubViewAndFlipTheImageIfItsAUIImageView(subviews: firstView.view.subviews, cancelledTags: nil)}
         }
         interector?.displayProjectService()
     }

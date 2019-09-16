@@ -94,7 +94,7 @@ extension ParentViewController:ParentViewPresenterToViewProtocol{
   
     
     func changeShadowPath(with shapeLayer: CAShapeLayer) {
-        scrollView.layer.addSublayer(shapeLayer)
+       // scrollView.layer.addSublayer(shapeLayer)
     }
     
     func selectBttn(bttn: UIButton, index: Int) {

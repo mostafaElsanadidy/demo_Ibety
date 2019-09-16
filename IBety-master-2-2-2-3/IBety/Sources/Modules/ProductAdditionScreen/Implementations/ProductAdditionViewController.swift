@@ -44,6 +44,9 @@ class ProductAdditionViewController: UIViewController , UITextViewDelegate, UITe
             add_editBttn.setTitle("Update".localized, for: .normal)
         }
         else{
+            
+            productName.text = "Hand Products".localized
+            productDescription.text = "Type Product Description".localized
             titleLabel.text = "Product Addition".localized
             add_editBttn.setTitle("ADD".localized, for: .normal)
         }
@@ -56,6 +59,7 @@ class ProductAdditionViewController: UIViewController , UITextViewDelegate, UITe
         
         //       // let shadowRect = contentView.bounds.insetBy(dx: 0, dy: 2) // inset top/bottom
         contentView.layer.shadowPath = contentView.createRectangle()
+        contentView.layer.cornerRadius = 10
         add_editBttn.layer.cornerRadius = 5.0
     }
     
@@ -192,72 +196,6 @@ class ProductAdditionViewController: UIViewController , UITextViewDelegate, UITe
         view.hideSpinner(tag: 1000)
     }
 }
-//
-//extension ProductAdditionViewController:UIImagePickerControllerDelegate, UINavigationControllerDelegate{
-//    
-//    
-//    func takePhotoWithCamera() {
-//        let imagePicker = UIImagePickerController()
-//        imagePicker.sourceType = .camera
-//        imagePicker.delegate = self
-//        imagePicker.allowsEditing = true
-//        present(imagePicker, animated: true, completion: nil)
-//    }
-//    
-//    @objc func imagePickerController(_ picker: UIImagePickerController,
-//                                     didFinishPickingMediaWithInfo info: [String : Any]) {
-//        if let image = info[UIImagePickerController.InfoKey.editedImage.rawValue] as? UIImage
-//        {print(" yooo ooo ")
-//            show(image: image)
-//        }
-//        dismiss(animated: true, completion: nil)
-//    }
-//    
-//    
-//    func imagePickerControllerDidCancel(_ picker: UIImagePickerController) {
-//        dismiss(animated: true, completion: nil)
-//    }
-//    
-//    func choosePhotoFromLibrary() {
-//        let imagePicker = UIImagePickerController()
-//        imagePicker.sourceType = .photoLibrary
-//        imagePicker.delegate = self
-//        imagePicker.allowsEditing = true
-//        present(imagePicker, animated: true, completion: nil)}
-//    
-//    func show(image: UIImage) {
-//        photoImageView.image = image.resized_Image(withBounds: photoImageView.frame.size)
-//        dicOfProduct = []
-//        userProject.projectImage = image.pngData()?.base64EncodedString()
-////        photoImageView.isHidden = false
-////        //logoImageView.frame = CGRect(x: 93, y: 52, width: 24, height: 23)
-////        photoImageView.isHidden = true
-//    }
-//    
-//    func pickPhoto() {
-//        if true || UIImagePickerController.isSourceTypeAvailable(.camera) {
-//            showPhotoMenu()
-//        } else {
-//            choosePhotoFromLibrary()
-//        }
-//    }
-//    
-//    
-//    func showPhotoMenu() {
-//        let alertController = UIAlertController(title: nil, message: nil,
-//                                                preferredStyle: .actionSheet)
-//        let cancelAction = UIAlertAction(title: "Cancel", style: .cancel,
-//                                         handler: nil)
-//        alertController.addAction(cancelAction)
-//        let takePhotoAction = UIAlertAction(title: "Take Photo",
-//                                            style: .default, handler: { _ in self.takePhotoWithCamera()})
-//        alertController.addAction(takePhotoAction)
-//        let chooseFromLibraryAction = UIAlertAction(title:
-//            "Choose From Library", style: .default, handler: { _ in self.choosePhotoFromLibrary()})
-//        alertController.addAction(chooseFromLibraryAction)
-//        present(alertController, animated: true, completion: nil)
-//    }
-//}
 
 extension ProductAdditionViewController:ProductAdditionPresenterToViewProtocol{
     

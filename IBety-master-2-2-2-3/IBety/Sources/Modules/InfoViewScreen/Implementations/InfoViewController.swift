@@ -85,7 +85,7 @@ class InfoViewController: UIViewController,UITextViewDelegate {
             let projectData = self.displayedProjectDetails.data!
             self.projectName.text = projectData.name!
             self.descriptionTextView.text = projectData.description!
-            self.city_IDTextField.text = projectData.owner!.city!.name!
+            self.city_IDTextField.text = projectData.city!.name!
             self.category_IDTextField.text = projectData.category!.name
             let imageURLStr = projectData.owner!.projects!.data!.media!.image!.conversions!.thumb!
             self.logoImageView.showSpinner(tag: 1000)

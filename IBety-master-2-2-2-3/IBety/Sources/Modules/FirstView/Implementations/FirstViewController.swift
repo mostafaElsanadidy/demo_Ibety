@@ -172,6 +172,7 @@ extension FirstViewController : PresenterToViewProtocol{
         scrollView.layer.addSublayer(shapeLayer)
         
         continueBttn.layer.cornerRadius = continueBttn.frame.width/2
+        
         languageBttn.imageView!.transform = CGAffineTransform.init(rotationAngle: CGFloat.pi/2)
         
         loginButton.layer.cornerRadius = 10

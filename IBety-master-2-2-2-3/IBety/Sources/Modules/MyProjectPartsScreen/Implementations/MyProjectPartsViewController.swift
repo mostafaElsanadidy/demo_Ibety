@@ -35,20 +35,29 @@ class MyProjectPartsViewController: UIViewController {
         searchTextView.isHidden = true
         projectInfoBttn.layer.shadowOpacity = 0.1
         projectInfoBttn.layer.cornerRadius = 5
+        projectInfoBttn.layer.shadowPath = projectInfoBttn.createRectangle()
         
         projectProductsBttn.layer.shadowOpacity = 0.09
         projectProductsBttn.layer.cornerRadius = 5
         
         communicateInfoBttn.layer.shadowOpacity = 0.09
         communicateInfoBttn.layer.cornerRadius = 5
+        
         // Do any additional setup after loading the view.
     }
     
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
-        
         dicOfUpdateProject = [:]
-       presenter?.updateView()
+    }
+    
+    override func viewDidAppear(_ animated: Bool) {
+        super.viewDidAppear(animated)
+        
+        projectInfoBttn.layer.shadowPath = projectInfoBttn.createRectangle()
+        communicateInfoBttn.layer.shadowPath = communicateInfoBttn.createRectangle()
+        projectProductsBttn.layer.shadowPath = projectProductsBttn.createRectangle()
+        presenter?.updateView()
     }
     
     

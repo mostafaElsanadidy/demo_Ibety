@@ -192,7 +192,7 @@ extension Name_PasswordPresenter:Name_PasswordInterectorToPresenterProtocol{
 extension Name_PasswordPresenter:UITextFieldDelegate{
     
     func textFieldDidBeginEditing(_ textField: UITextField) {
-        timer?.invalidate()
+      //  timer?.invalidate()
         textField.text! = ""
         indOfTextField = textField.tag
         //        indOfTextField

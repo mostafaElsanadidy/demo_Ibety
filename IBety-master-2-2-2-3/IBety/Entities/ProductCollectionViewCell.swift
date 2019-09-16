@@ -44,13 +44,11 @@ class NotificationCell:UITableViewCell{
     
     override func draw(_ rect: CGRect) {
         
-       let path = UIBezierPath.init(rect: self.bounds)
-       
-        UIColor.white.setStroke()
-        path.stroke()
-        
-        self.layer.cornerRadius = 10
-        self.layer.shadowOpacity=0.2
+        if let view = self.viewWithTag(120){
+            
+            view.layer.cornerRadius = 8
+            view.layer.shadowPath = view.createRectangle()
+        }
         
     }
 }

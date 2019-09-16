@@ -38,9 +38,6 @@ class MyProjectPartsInterector: MyProjectPartsPresentorToInterectorProtocol{
             ]
             
             presenter?.hideViews()
-            
-            
-                    self.ownerLoginResult = try! JSONDecoder().decode(OwnerLogin_Result.self, from: data2)
                     
                     
                     let displayedProjectUrlStr = urlStr+"\(self.ownerLoginResult.data!.projects!.data!.id!)"
@@ -85,6 +82,7 @@ class MyProjectPartsInterector: MyProjectPartsPresentorToInterectorProtocol{
                             }else{
                                 
                                 print("\(url!)")
+                                print(response.value!)
                                 //           data = countryResult
                                 UserDefaults.standard.set( response.data!, forKey: "displayCreatedProject")
                                 //  UserDefaults.standard.set( response.data!, forKey: "displayProject")

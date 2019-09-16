@@ -6,7 +6,7 @@
 //  Copyright © 2019 Mohamed. All rights reserved.
 //
 
-import Foundation
+import Segmentio
 
 import UIKit
 
@@ -44,7 +44,7 @@ protocol ProDetailsViewToPresenterProtocol: class {
     func searchProject(with name:String)
     func popViewController()
     func changeCellImage(with item: DisplayedSearchedProductsData)
-    func updateViews()
+    func updateViews(segmentioView: Segmentio , contentView:UIView , isVertical:Bool , vertical_horizentalStackView:UIStackView)
     func instantiateViewController()
     func addChildViewController(with identifier:String , isVertical:Bool , in contentView:UIView)
     func addChildViewController(with identifier:String , in contentView:UIView)

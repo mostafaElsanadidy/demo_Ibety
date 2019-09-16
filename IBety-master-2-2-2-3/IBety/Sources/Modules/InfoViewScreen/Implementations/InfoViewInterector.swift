@@ -49,7 +49,7 @@ class InfoViewInterector: InfoViewPresentorToInterectorProtocol {
     
     
     func category_defaultCitiesService() {
-        let urlCountryStr = urlStr+"countries"
+        let urlCountryStr = urlStr+"countries/default/cities"
         let urlCategoryStr = urlStr+"categories"
         let method = HTTPMethod.get
         alamofireFunction2(httpMethod: method, urlStr: urlCountryStr, dicOfHeader: dicOfHeader, dicOfBody: nil, userDefaultKey : "DefaultCities_ListData")

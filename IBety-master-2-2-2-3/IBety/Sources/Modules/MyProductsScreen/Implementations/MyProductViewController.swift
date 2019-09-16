@@ -109,6 +109,8 @@ class MyProductViewController: UIViewController, UICollectionViewDataSource, UIC
     override func viewDidAppear(_ animated: Bool) {
         
         super.viewDidAppear(animated)
+        
+        collectionView.hideSpinner(tag: 1000)
         print(" znvkjsdnvkjsdsd ")
         
     }

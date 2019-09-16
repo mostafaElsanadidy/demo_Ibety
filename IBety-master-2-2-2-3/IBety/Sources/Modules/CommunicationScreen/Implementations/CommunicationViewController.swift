@@ -36,7 +36,7 @@ class CommunicationViewController: UIViewController {
 
         CommunicationRouter.createModule(view: self)
         presenter?.viewDidLoad()
-        
+        reportPhoneNumLabel.textAlignment = .center
         // Do any additional setup after loading the view.
     }
     

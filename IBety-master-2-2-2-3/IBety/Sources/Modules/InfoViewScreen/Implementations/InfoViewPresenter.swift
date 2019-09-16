@@ -35,6 +35,8 @@ class InfoViewPresenter: NSObject , InfoViewViewToPresenterProtocol {
     
     
     func updateView(isUpdateState: Bool) {
+        
+        self.isUpdateState = isUpdateState
         if isUpdateState {
             interector?.displayProjectService()
         }
@@ -159,7 +161,8 @@ extension InfoViewPresenter:UIImagePickerControllerDelegate, UINavigationControl
         if isUpdateState{
             // projectInfo.projectImageStr = image.pngData()?.base64EncodedString()
             //   print(projectInfo.projectImageStr)
-            dicOfUpdateProject["image"] = image.pngData()?.base64EncodedString()
+            dicOfUpdateProject["image"] = (image.pngData()?.base64EncodedString())!
+            print(dicOfUpdateProject["image"])
         }
         view?.showImageView(with: image)
     }

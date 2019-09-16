@@ -337,26 +337,6 @@ open class Segmentio: UIView {
         if let indicatorLayer = indicatorLayer, let options = segmentioOptions.indicatorOptions {
             let item = itemInSuperview(ratio: options.ratio)
 
-            print(selectedSegmentioIndex)
-            print(item.startX)
-            
-        
-            let APPLE_LANGUAGE_KEY = "AppleLanguages"
-            
-                    let userdef = UserDefaults.standard
-                    let langArray = userdef.object(forKey:APPLE_LANGUAGE_KEY) as! NSArray
-                    let current = langArray.firstObject as! String
-            
-            if current == "en"{
-                if selectedSegmentioIndex == 0{
-                    selectedSegmentioIndex = 2
-                }
-                else if selectedSegmentioIndex == 2{
-                    selectedSegmentioIndex = 0
-                }
-            }
-            print(selectedSegmentioIndex)
-            
             let points = Points(
                 item: item,
                 atIndex: selectedSegmentioIndex,
@@ -365,12 +345,9 @@ open class Segmentio: UIView {
                 position: segmentioOptions.segmentPosition,
                 style: segmentioStyle
             )
-            
-            
             let insetX = ((points.endPoint.x - points.startPoint.x) - (item.endX - item.startX))/2
             
-            print(insetX)
-            
+            print("&&&&&&&&&&&&& \(insetX) *************")
             moveShapeLayer(
                 indicatorLayer,
                 startPoint: CGPoint(x: points.startPoint.x + insetX, y: points.startPoint.y),
@@ -470,14 +447,12 @@ open class Segmentio: UIView {
     // MARK: - Item in superview
     
     private func itemInSuperview(ratio: CGFloat = 1) -> ItemInSuperview {
-        
         var collectionViewWidth: CGFloat = 0
         var cellWidth: CGFloat = 0
         var cellRect = CGRect.zero
         var shapeLayerWidth: CGFloat = 0
         
         if let collectionView = segmentioCollectionView, selectedSegmentioIndex != -1 {
-            
             collectionViewWidth = collectionView.frame.width
             cellWidth = segmentWidth(for: IndexPath(row: selectedSegmentioIndex, section: 0))
             var x: CGFloat = 0
@@ -485,8 +460,7 @@ open class Segmentio: UIView {
             switch segmentioOptions.segmentPosition {
             case .fixed:
                 x = floor(CGFloat(selectedSegmentioIndex) * cellWidth - collectionView.contentOffset.x)
-                print(x)
-                print(collectionView.contentOffset.x)
+                
             case .dynamic:
                 for i in 0..<selectedSegmentioIndex {
                     x += segmentWidth(for: IndexPath(item: i, section: 0))

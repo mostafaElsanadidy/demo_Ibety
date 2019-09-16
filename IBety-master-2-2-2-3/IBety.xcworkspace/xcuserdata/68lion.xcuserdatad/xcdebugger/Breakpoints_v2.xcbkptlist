@@ -58,7 +58,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "IBety/Sources/Modules/ProDetailsPage/Implementations/ProDetailsInterector.swift"
-            timestampString = "589710435.994501"
+            timestampString = "590361464.56251"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "64"
@@ -74,7 +74,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "IBety/Sources/Modules/ProDetailsPage/Implementations/ProDetailsViewController.swift"
-            timestampString = "590332493.645328"
+            timestampString = "590361464.563201"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "76"
@@ -186,7 +186,7 @@
                   moduleName = "IBety"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/68lion/Documents/GitHub/demo_Ibety/IBety-master-2-2-2-3/IBety/Sources/Modules/MyDetailsScreen/Implementations/MyDetailsInterector.swift"
-                  timestampString = "590330550.389071"
+                  timestampString = "590344600.805295"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "83"
@@ -201,7 +201,7 @@
                   moduleName = "IBety"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/68lion/Documents/GitHub/demo_Ibety/IBety-master-2-2-2-3/IBety/Sources/Modules/MyDetailsScreen/Implementations/MyDetailsInterector.swift"
-                  timestampString = "590330550.401293"
+                  timestampString = "590344600.81513"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "84"
@@ -320,22 +320,6 @@
             startingLineNumber = "50"
             endingLineNumber = "50"
             landmarkName = "moveToProjectPartsPage()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "IBety/Sources/Modules/MyProjectPartsScreen/Implementations/MyProjectPartsInterector.swift"
-            timestampString = "590104106.610855"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "42"
-            endingLineNumber = "42"
-            landmarkName = "updateView()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -490,11 +474,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "IBety/Sources/Modules/MyProjectPartsScreen/Implementations/MyProjectPartsViewController.swift"
-            timestampString = "590104106.628683"
+            timestampString = "590361464.565762"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "66"
-            endingLineNumber = "66"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
             landmarkName = "comunicateInfoOnClicked()"
             landmarkType = "7">
          </BreakpointContent>
@@ -522,11 +506,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "IBety/Sources/Modules/MyProductsScreen/Implementations/MyProductViewController.swift"
-            timestampString = "590276592.061071"
+            timestampString = "590361464.566828"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "148"
-            endingLineNumber = "148"
+            startingLineNumber = "150"
+            endingLineNumber = "150"
             landmarkName = "collectionView(_:cellForItemAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -586,7 +570,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "IBety/Sources/Modules/ProjectDetailsScreen/Implementations/ProjectDetailsPresenter.swift"
-            timestampString = "590332493.646843"
+            timestampString = "590361464.567304"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "42"
@@ -650,7 +634,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "IBety/Sources/Modules/FirstView/Implementations/FirstViewController.swift"
-            timestampString = "590276592.063915"
+            timestampString = "590361464.567727"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "108"
@@ -682,11 +666,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Pods/Segmentio/Segmentio/Source/Segmentio.swift"
-            timestampString = "590331289.531823"
+            timestampString = "590361464.56835"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "350"
-            endingLineNumber = "350"
+            startingLineNumber = "352"
+            endingLineNumber = "352"
             landmarkName = "moveShapeLayerAtContext()"
             landmarkType = "7">
          </BreakpointContent>
@@ -698,7 +682,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Pods/Segmentio/Segmentio/Source/Segmentio.swift"
-            timestampString = "590331289.5319099"
+            timestampString = "590361464.5688961"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "340"
@@ -714,11 +698,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Pods/Segmentio/Segmentio/Source/Segmentio.swift"
-            timestampString = "590331289.532033"
+            timestampString = "590361464.56908"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "358"
-            endingLineNumber = "358"
+            startingLineNumber = "360"
+            endingLineNumber = "360"
             landmarkName = "moveShapeLayerAtContext()"
             landmarkType = "7">
          </BreakpointContent>
@@ -730,12 +714,28 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Pods/Segmentio/Segmentio/Source/Segmentio.swift"
-            timestampString = "590331289.532118"
+            timestampString = "590361464.569574"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "488"
-            endingLineNumber = "488"
-            landmarkName = "itemInSuperview(ratio:)"
+            startingLineNumber = "490"
+            endingLineNumber = "490"
+            landmarkName = "Segmentio"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Segmentio/Segmentio/Source/Segmentio.swift"
+            timestampString = "590361464.569958"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "373"
+            endingLineNumber = "373"
+            landmarkName = "moveShapeLayerAtContext()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -746,12 +746,108 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Pods/Segmentio/Segmentio/Source/Segmentio.swift"
-            timestampString = "590331289.532178"
+            timestampString = "590361464.570437"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "371"
-            endingLineNumber = "371"
+            startingLineNumber = "374"
+            endingLineNumber = "374"
             landmarkName = "moveShapeLayerAtContext()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Segmentio/Segmentio/Source/Segmentio.swift"
+            timestampString = "590361464.570931"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "350"
+            endingLineNumber = "350"
+            landmarkName = "moveShapeLayerAtContext()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IBety/Sources/Modules/InfoViewScreen/Implementations/InfoViewPresenter.swift"
+            timestampString = "590361464.5715131"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "164"
+            endingLineNumber = "164"
+            landmarkName = "show(image:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IBety/Sources/Modules/InfoViewScreen/Implementations/InfoViewPresenter.swift"
+            timestampString = "590361464.572031"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "show(image:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IBety/Sources/Modules/MyProjectPartsScreen/Implementations/MyProjectPartsInterector.swift"
+            timestampString = "590361464.5727431"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "updateView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IBety/Sources/Modules/ProjectsDataScreen/Implementations/ProjectDataPresenter.swift"
+            timestampString = "590347468.354292"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "307"
+            endingLineNumber = "307"
+            landmarkName = "textViewDidChange(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IBety/Sources/Modules/ProjectsDataScreen/Implementations/ProjectDataPresenter.swift"
+            timestampString = "590347468.354389"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "315"
+            endingLineNumber = "315"
+            landmarkName = "textViewDidChange(_:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

@@ -14,6 +14,7 @@ import Alamofire
 
 class Name_PasswordViewController: UIViewController, UITextFieldDelegate{
     
+    @IBOutlet weak var codeStackView: UIStackView!
     @IBOutlet weak var titleLabel: UILabel!
     //var view:UIView!
     @IBOutlet weak var verificationCodeStackView: UIStackView!
@@ -65,24 +66,13 @@ class Name_PasswordViewController: UIViewController, UITextFieldDelegate{
         Name_PasswordRouter.createModule(view: self)
     
         mainView.bringSubviewToFront(phone_NumberView)
+        presenter?.updateViews()
         
+        codeStackView.semanticContentAttribute = .forceLeftToRight
+        
+        newPasswordTextView.layer.cornerRadius = 5
         mainView.layer.cornerRadius = 10
         mainView.layer.shadowOpacity = 0.3
-        
-//        newPasswordView.layer.cornerRadius = 10
-//        newPasswordView.layer.shadowOpacity = 0.3
-//
-//        verificationCodeView.layer.cornerRadius = 10
-//        verificationCodeView.layer.shadowOpacity = 0.3
-//
-//        demoView.layer.cornerRadius = 10
-//        demoView.layer.shadowOpacity = 0.3
-//
-//        phone_NumberView.layer.cornerRadius = 10
-//        phone_NumberView.layer.shadowOpacity = 0.3
-        
-        presenter?.updateViews()
-        newPasswordTextView.layer.cornerRadius = 5
         config_passwordTextView.layer.cornerRadius = 5
          sendBttn.layer.cornerRadius = 5
         phoneNumberTextView.layer.cornerRadius = 5
@@ -149,7 +139,7 @@ extension Name_PasswordViewController:Name_PasswordPresenterToViewProtocol{
             self.verificationCodeView.layer.shadowOpacity = 0.3
         }else if selectedIndexOfView == 2{
             
-            self.sendBttn.setTitle("تعيين", for: .normal)
+            self.sendBttn.setTitle("Update".localized, for: .normal)
             self.titleLabel.text = "من فضلك اكتب كلمة السر الجديدة"
         }
     }
