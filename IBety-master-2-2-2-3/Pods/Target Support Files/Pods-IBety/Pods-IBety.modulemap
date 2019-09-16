@@ -1,0 +1,6 @@
+framework module Pods_IBety {
+  umbrella header "Pods-IBety-umbrella.h"
+
+  export *
+  module * { export * }
+}

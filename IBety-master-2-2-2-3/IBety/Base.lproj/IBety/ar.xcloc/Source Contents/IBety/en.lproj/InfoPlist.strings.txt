@@ -1,0 +1,6 @@
+/* Bundle name */
+"CFBundleName" = "IBety";
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "the project want to access photos";
+/* Privacy - Photo Library Usage Description */
+"NSPhotoLibraryUsageDescription" = "Add photos to your project";

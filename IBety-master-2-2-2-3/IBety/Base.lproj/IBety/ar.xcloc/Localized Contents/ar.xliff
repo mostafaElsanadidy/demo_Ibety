@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="IBety/Base.lproj/LaunchScreen.storyboard" source-language="en" target-language="ar" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.2.1" build-num="10E1001"/>
+    </header>
+    <body>
+      <trans-unit id="GJd-Yh-RWb.text">
+        <source>IBety</source>
+        <target>IBety</target>
+        <note>Class = "UILabel"; text = "IBety"; ObjectID = "GJd-Yh-RWb";</note>
+      </trans-unit>
+      <trans-unit id="obG-Y5-kRd.text">
+        <source>Copyright © 2019 Mohamed. All rights reserved.</source>
+        <target>Copyright © 2019 Mohamed. All rights reserved.</target>
+        <note>Class = "UILabel"; text = "Copyright © 2019 Mohamed. All rights reserved."; ObjectID = "obG-Y5-kRd";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="IBety/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="ar">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.2.1" build-num="10E1001"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>IBety</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSLocationWhenInUseUsageDescription">
+        <source>the project want to access photos</source>
+        <note>Privacy - Location When In Use Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSPhotoLibraryUsageDescription">
+        <source>Add photos to your project</source>
+        <note>Privacy - Photo Library Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
