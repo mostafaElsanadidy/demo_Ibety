@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  NewIBety
+
+  Created by mostafa elsanadidy on 9/21/19.
+  Copyright © 2019 mostafa elsanadidy. All rights reserved.
+*/
+
+
+"create_account" = "create account";
+"search for project" = "search for project";
+"Profile Personly" = "Profile Personly";
+"Language" = "Language";
+"About The Application" = "About The Application";
+"Continue With US" = "Continue With US";
+"Advertising" = "Advertising";
+"Sending Message" = "Sending Message";
+"Notifications" = "Notifications";
+"Searching" = "Searching";
+"Add Your Project" = "Add Your Project";
+"Display Your Project" = "Display Your Project";
+"Win Your Project" = "Win Your Project";
+"Did you know that Winnie the chubby little cubby was based on a real, young bear in London" = "Did you know that Winnie the chubby little cubby was based on a real, young bear in London";
+"Phone Number" = "Phone Number";
+"project name" = "project name";
+"Type Product Description" = "Type Product Description";
+"Hand Products" = "Hand Products";
+"Project Info" = "Project Info";
+"Communication Info" = "Communication Info";
+"Project Products" = "Project Products";
+
+"Thank you for registering with us in my program" = "Thank you for registering with us in my program";
+"Your membership will be activated shortly..." = "Your membership will be activated shortly...";
+"Skip" = "Skip";
+"Your membership will be activated soon Wait for approval" = "Your membership will be activated soon Wait for approval";
+"Complete as a visitor" = "Complete as a visitor";
+"sign out" = "sign out";
+
+"Product Addition" = "Product Addition";
+"Product Update" = "Product Update";
+"Update" = "update";
+"ADD" = "ADD";
+
+"Please type confirmation code if no confirmation code is sent" = "Please type confirmation code if no confirmation code is sent";
+"Please type your new password" = "Please type your new password";

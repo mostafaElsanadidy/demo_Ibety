@@ -1,0 +1,816 @@
+
+/* Class = "UIButton"; normalTitle = "معلومات التواصل"; ObjectID = "0Yt-ua-i8F"; */
+"0Yt-ua-i8F.normalTitle" = "communication info";
+
+/* Class = "UIButton"; normalTitle = "تسجيل الخروج"; ObjectID = "0dj-HP-LGD"; */
+"0dj-HP-LGD.normalTitle" = "Sign out";
+
+/* Class = "UITextView"; text = "اسم المشروع"; ObjectID = "0us-HO-SFU"; */
+"0us-HO-SFU.text" = "project name";
+
+/* Class = "UILabel"; text = "البريد الالكترونى"; ObjectID = "1IF-rN-aua"; */
+"1IF-rN-aua.text" = "Email";
+
+/* Class = "UITextView"; text = "اكتب وصف المنتج"; ObjectID = "1Nc-5x-VUw"; */
+"1Nc-5x-VUw.text" = "Type Product Description";
+
+/* Class = "UITextField"; placeholder = "$220"; ObjectID = "1TL-ev-00p"; */
+"1TL-ev-00p.placeholder" = "$220";
+
+/* Class = "UITextView"; text = "mostafa.elsanadidy@gmail.com mostafa.elsanadidy@gmail.com"; ObjectID = "1k8-pD-MWR"; */
+"1k8-pD-MWR.text" = "mostafa.elsanadidy@gmail.com mostafa.elsanadidy@gmail.com";
+
+/* Class = "UILabel"; text = "أكمال التصفخ كزائر"; ObjectID = "1wq-iL-IX5"; */
+"1wq-iL-IX5.text" = "Complete As Visitor";
+
+/* Class = "UILabel"; text = "ارفق الشعار"; ObjectID = "1yT-nC-d5N"; */
+"1yT-nC-d5N.text" = "Attach logo";
+
+/* Class = "UILabel"; text = "تفاصيل المشروع"; ObjectID = "1zJ-6b-pcn"; */
+"1zJ-6b-pcn.text" = "Project Descrption";
+
+/* Class = "UILabel"; text = "أكبر الخصومات"; ObjectID = "21A-Zd-pNF"; */
+"21A-Zd-pNF.text" = "Biggest Discounts";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "25y-bE-jwS"; */
+"25y-bE-jwS.title" = "Item";
+
+/* Class = "UILabel"; text = "عن التطبيق"; ObjectID = "27c-a7-dq6"; */
+"27c-a7-dq6.text" = "About App";
+
+/* Class = "UILabel"; text = "أو مع"; ObjectID = "2MB-FT-QGq"; */
+"2MB-FT-QGq.text" = "Or With";
+
+/* Class = "UITextView"; text = "+2001211090887 "; ObjectID = "2Uk-ny-4JR"; */
+"2Uk-ny-4JR.text" = "+2001211090887 ";
+
+/* Class = "UILabel"; text = "لو لم يتم ارسال كود التاكيد "; ObjectID = "2w3-Ak-tR2"; */
+"2w3-Ak-tR2.text" = "If the confirmation code is not sent";
+
+/* Class = "UILabel"; text = "يرجى التواصل مع الارقام التالية للاعلانات"; ObjectID = "30J-NB-eta"; */
+"30J-NB-eta.text" = "Please contact the following numbers for advertisements";
+
+/* Class = "UILabel"; text = "من فضلك اكتب كود التأكيد "; ObjectID = "34q-XI-B6v"; */
+"34q-XI-B6v.text" = "Please type confirmation code";
+
+/* Class = "UILabel"; text = "كلمة المرور"; ObjectID = "3RG-G8-9eS"; */
+"3RG-G8-9eS.text" = "Password";
+
+/* Class = "UIButton"; normalTitle = "اكمل كزائر"; ObjectID = "3b9-12-kwj"; */
+"3b9-12-kwj.normalTitle" = "Complete As Visitor";
+
+/* Class = "UILabel"; text = "اسم المشروع"; ObjectID = "3l1-Oa-Qlk"; */
+"3l1-Oa-Qlk.text" = "Project Name";
+
+/* Class = "UITextView"; text = "+2001255688745"; ObjectID = "3rq-dJ-wkd"; */
+"3rq-dJ-wkd.text" = "+2001255688745";
+
+/* Class = "UILabel"; text = "تجهيز مناسبات"; ObjectID = "40x-Sa-tbz"; */
+"40x-Sa-tbz.text" = "Processing Events";
+
+/* Class = "UIButton"; normalTitle = "إرسال"; ObjectID = "4Nr-3D-nbD"; */
+"4Nr-3D-nbD.normalTitle" = "Send";
+
+/* Class = "UIButton"; normalTitle = "أنا أوافق على الشروط والاحكام"; ObjectID = "4OT-Bx-CXj"; */
+"4OT-Bx-CXj.normalTitle" = "I agree to the Terms and Conditions";
+
+/* Class = "UILabel"; text = "اسم المشروع"; ObjectID = "4jn-RZ-lci"; */
+"4jn-RZ-lci.text" = "Project Name";
+
+/* Class = "UILabel"; text = "عن المنتج"; ObjectID = "4qo-FE-ihn"; */
+"4qo-FE-ihn.text" = "About Product";
+
+/* Class = "UIButton"; normalTitle = "مشاهدة المزيد"; ObjectID = "59i-bn-bmG"; */
+"59i-bn-bmG.normalTitle" = "see more";
+
+/* Class = "UIButton"; normalTitle = "اضافة"; ObjectID = "5Mw-ki-muj"; */
+"5Mw-ki-muj.normalTitle" = "Addition";
+
+/* Class = "UITextField"; placeholder = "اكتب وصف المنتج"; ObjectID = "5e9-hK-3dH"; */
+"5e9-hK-3dH.placeholder" = "Type Product Description";
+
+/* Class = "UITextField"; placeholder = "اختر القسم"; ObjectID = "5ee-Gw-AB8"; */
+"5ee-Gw-AB8.placeholder" = "Choose section";
+
+/* Class = "UILabel"; text = "رقم الهاتف"; ObjectID = "5x2-XO-wQb"; */
+"5x2-XO-wQb.text" = "Phone Number";
+
+/* Class = "UITextView"; text = "اكتب وصف المنتج"; ObjectID = "68X-f3-lCJ"; */
+"68X-f3-lCJ.text" = "Type Product Description";
+
+/* Class = "UILabel"; text = "%50"; ObjectID = "6XG-WK-G3o"; */
+"6XG-WK-G3o.text" = "%50";
+
+/* Class = "UILabel"; text = "•"; ObjectID = "6np-7E-ADL"; */
+"6np-7E-ADL.text" = "•";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "6rd-fh-iXT"; */
+"6rd-fh-iXT.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "إنشاء حساب"; ObjectID = "77E-kQ-iBg"; */
+"77E-kQ-iBg.normalTitle" = "Create an account";
+
+/* Class = "UILabel"; text = "اختر الصورة"; ObjectID = "7Fp-jW-ate"; */
+"7Fp-jW-ate.text" = "Choose Image";
+
+/* Class = "UILabel"; text = "الملف الشخصى"; ObjectID = "7J1-mt-c0D"; */
+"7J1-mt-c0D.text" = "Profile personly";
+
+/* Class = "UILabel"; text = "البريد الالكترونى"; ObjectID = "7Yu-Qn-5Qc"; */
+"7Yu-Qn-5Qc.text" = "Email";
+
+/* Class = "UIButton"; normalTitle = "تسجيل الخروج"; ObjectID = "7l5-ng-hza"; */
+"7l5-ng-hza.normalTitle" = "Sign out";
+
+/* Class = "UILabel"; text = "اسم المنتج"; ObjectID = "8RB-uv-CXN"; */
+"8RB-uv-CXN.text" = "Product name";
+
+/* Class = "UILabel"; text = "اختر الصورة"; ObjectID = "8SU-Qo-o5M"; */
+"8SU-Qo-o5M.text" = "Choose Image";
+
+/* Class = "UILabel"; text = "القسم"; ObjectID = "8gR-lS-5M5"; */
+"8gR-lS-5M5.text" = "Category";
+
+/* Class = "UITextView"; text = "+2001211090887\n                                            \n                                            +2001211090887\n                                            \n                                            +2001211090887\n                                        "; ObjectID = "91d-FH-wZd"; */
+"91d-FH-wZd.text" = "+2001211090887\n                                            \n                                            +2001211090887\n                                            \n                                            +2001211090887\n                                        ";
+
+/* Class = "UIButton"; normalTitle = "معلومات المشروع"; ObjectID = "9Bo-DK-niM"; */
+"9Bo-DK-niM.normalTitle" = "Project info";
+
+/* Class = "UITextView"; text = "+2001255688745"; ObjectID = "9SD-gp-30k"; */
+"9SD-gp-30k.text" = "+2001255688745";
+
+/* Class = "UILabel"; text = "الشكاوى و الاقتراحات"; ObjectID = "9T1-0p-fhS"; */
+"9T1-0p-fhS.text" = "Complaints and Suggestions";
+
+/* Class = "UIButton"; normalTitle = "مستخدم"; ObjectID = "9a1-cC-CUY"; */
+"9a1-cC-CUY.normalTitle" = "user";
+
+/* Class = "UILabel"; text = "مسؤول الإعلانات"; ObjectID = "9hj-n5-523"; */
+"9hj-n5-523.text" = "Ad Admin";
+
+/* Class = "UILabel"; text = "أكمل بيانات مشروعك"; ObjectID = "9qV-3O-MQO"; */
+"9qV-3O-MQO.text" = "Complete your project data";
+
+/* Class = "UILabel"; text = "كلمة المرور الجديدة"; ObjectID = "9tz-jC-3QS"; */
+"9tz-jC-3QS.text" = "new password";
+
+/* Class = "UILabel"; text = "اسم المستخدم"; ObjectID = "AEw-sP-oyw"; */
+"AEw-sP-oyw.text" = "user name";
+
+/* Class = "UILabel"; text = "الاعلانات"; ObjectID = "Aa6-P0-9i9"; */
+"Aa6-P0-9i9.text" = "Advertising";
+
+/* Class = "UILabel"; text = "إنشاء حساب"; ObjectID = "Aep-DC-w1Z"; */
+"Aep-DC-w1Z.text" = "Create an account";
+
+/* Class = "UILabel"; text = "الوصف"; ObjectID = "Am3-pm-tXJ"; */
+"Am3-pm-tXJ.text" = "Description";
+
+/* Class = "UILabel"; text = "الاعلانات"; ObjectID = "Aul-TW-shE"; */
+"Aul-TW-shE.text" = "Advertising";
+
+/* Class = "UILabel"; text = "معلومات التواصل"; ObjectID = "BA4-J1-0fg"; */
+"BA4-J1-0fg.text" = "Communication Info";
+
+/* Class = "UILabel"; text = "الوصف"; ObjectID = "BOD-Gy-je4"; */
+"BOD-Gy-je4.text" = "Description";
+
+/* Class = "UILabel"; text = "Kitchen Type"; ObjectID = "Bgx-9K-Xbn"; */
+"Bgx-9K-Xbn.text" = "Kitchen Type";
+
+/* Class = "UIButton"; normalTitle = "تسجيل الدخول"; ObjectID = "CRU-QE-WHZ"; */
+"CRU-QE-WHZ.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = "تجهيز مناسبات"; ObjectID = "CgS-uB-FKe"; */
+"CgS-uB-FKe.text" = "Processing Events";
+
+/* Class = "UILabel"; text = "$220"; ObjectID = "D0p-lv-gSv"; */
+"D0p-lv-gSv.text" = "$220";
+
+/* Class = "UITextView"; text = "+2001211090887\n                                            +2001211090887\n                                            +2001211090887"; ObjectID = "DAJ-6c-SaH"; */
+"DAJ-6c-SaH.text" = "+2001211090887\n                                            +2001211090887\n                                            +2001211090887";
+
+/* Class = "UILabel"; text = "%50"; ObjectID = "Djc-fE-FJh"; */
+"Djc-fE-FJh.text" = "%50";
+
+/* Class = "UILabel"; text = "الملف الشخصى"; ObjectID = "Duk-0V-bav"; */
+"Duk-0V-bav.text" = "Profile personly";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "EDC-oV-Ut1"; */
+"EDC-oV-Ut1.text" = "Label";
+
+/* Class = "UILabel"; text = "المنطقة"; ObjectID = "EDH-fq-EY1"; */
+"EDH-fq-EY1.text" = "City";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor itum poen legum odioque civiuda."; ObjectID = "Ege-Ak-2gi"; */
+"Ege-Ak-2gi.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor itum poen legum odioque civiuda.";
+
+/* Class = "UIButton"; normalTitle = "الشروط والاحكام"; ObjectID = "EjP-G0-Ckg"; */
+"EjP-G0-Ckg.normalTitle" = "Terms and Conditions";
+
+/* Class = "UITextField"; placeholder = "   Choose Place"; ObjectID = "EoX-48-1DB"; */
+"EoX-48-1DB.placeholder" = "   Choose Place";
+
+/* Class = "UIButton"; normalTitle = "تخطى"; ObjectID = "EtL-eY-GeO"; */
+"EtL-eY-GeO.normalTitle" = "skip";
+
+/* Class = "UILabel"; text = "تواصل معنا"; ObjectID = "EwG-5A-mAI"; */
+"EwG-5A-mAI.text" = "Contact with us";
+
+/* Class = "UITextView"; text = "اكتب شرح المنتج"; ObjectID = "Ezl-jf-yG6"; */
+"Ezl-jf-yG6.text" = "Type Product Description";
+
+/* Class = "UILabel"; text = "ليس لديك حساب؟"; ObjectID = "FLr-AV-SGf"; */
+"FLr-AV-SGf.text" = "have an account?";
+
+/* Class = "UILabel"; text = "الشكاوى و الاقتراحات"; ObjectID = "FPp-fS-lMO"; */
+"FPp-fS-lMO.text" = "Terms and Conditions";
+
+/* Class = "UILabel"; text = "%50"; ObjectID = "FSj-2g-Xse"; */
+"FSj-2g-Xse.text" = "%50";
+
+/* Class = "UILabel"; text = "إنشاء حساب"; ObjectID = "G11-5q-0I9"; */
+"G11-5q-0I9.text" = "Create an account";
+
+/* Class = "UILabel"; text = "رقم الهاتف"; ObjectID = "G1L-CO-f02"; */
+"G1L-CO-f02.text" = "Phone number";
+
+/* Class = "UIButton"; normalTitle = "إنشاء حساب"; ObjectID = "GBf-N3-FQt"; */
+"GBf-N3-FQt.normalTitle" = "Create an account";
+
+/* Class = "UILabel"; text = "أكبر الخصومات"; ObjectID = "GUF-B6-RPs"; */
+"GUF-B6-RPs.text" = "Biggest Discounts";
+
+/* Class = "UILabel"; text = "معلومات التواصل"; ObjectID = "GUP-dA-bd4"; */
+"GUP-dA-bd4.text" = "Communication info";
+
+/* Class = "UILabel"; text = "%50"; ObjectID = "GV3-mH-MxR"; */
+"GV3-mH-MxR.text" = "%50";
+
+/* Class = "UILabel"; text = "Restaurant Name"; ObjectID = "Gee-Fc-2hN"; */
+"Gee-Fc-2hN.text" = "Restaurant Name";
+
+/* Class = "UINavigationItem"; title = "Search"; ObjectID = "Gs3-EM-n01"; */
+"Gs3-EM-n01.title" = "Search";
+
+/* Class = "UILabel"; text = "اسم المشروع"; ObjectID = "Gty-5o-3gh"; */
+"Gty-5o-3gh.text" = "Project name";
+
+/* Class = "UILabel"; text = "%50"; ObjectID = "HeM-IP-ux5"; */
+"HeM-IP-ux5.text" = "%50";
+
+/* Class = "UILabel"; text = "الاعلانات"; ObjectID = "HtB-DT-lzD"; */
+"HtB-DT-lzD.text" = "Advertising";
+
+/* Class = "UIButton"; normalTitle = "حاول مجددا ؟"; ObjectID = "Hvv-8u-d6d"; */
+"Hvv-8u-d6d.normalTitle" = "try again?";
+
+/* Class = "UILabel"; text = "ارفق الشعار"; ObjectID = "Hza-OE-VUq"; */
+"Hza-OE-VUq.text" = "Attach the logo";
+
+/* Class = "UILabel"; text = "من فضلك ادخل كلمة المرور الجديدة"; ObjectID = "IN1-fN-gBl"; */
+"IN1-fN-gBl.text" = "Please enter your new password";
+
+/* Class = "UILabel"; text = "هناك حقيقة مثبتة"; ObjectID = "ISS-h6-M4Q"; */
+"ISS-h6-M4Q.text" = "There is a proven fact";
+
+/* Class = "UILabel"; text = "للاقتراحات تواصل على"; ObjectID = "IW5-lc-FSL"; */
+"IW5-lc-FSL.text" = "For suggestions continue on";
+
+/* Class = "UILabel"; text = "تسجيل الدخول"; ObjectID = "IbF-kD-ft3"; */
+"IbF-kD-ft3.text" = "login";
+
+/* Class = "UILabel"; text = "البريد الالكترونى"; ObjectID = "IeH-bp-CRG"; */
+"IeH-bp-CRG.text" = "Email";
+
+/* Class = "UILabel"; text = "اوافق"; ObjectID = "Ifx-TG-I5u"; */
+"Ifx-TG-I5u.text" = "Agree";
+
+/* Class = "UILabel"; text = "معلومات المشروع"; ObjectID = "IgC-y1-r07"; */
+"IgC-y1-r07.text" = "Project info";
+
+/* Class = "UILabel"; text = "+2001211090887 "; ObjectID = "J6L-eG-Y32"; */
+"J6L-eG-Y32.text" = "+2001211090887 ";
+
+/* Class = "UIButton"; normalTitle = "مشاهدة المزيد"; ObjectID = "JVs-yP-a1y"; */
+"JVs-yP-a1y.normalTitle" = "see more";
+
+/* Class = "UIButton"; normalTitle = "نسيت كلمة السر؟"; ObjectID = "Ja8-aU-J2b"; */
+"Ja8-aU-J2b.normalTitle" = "forgot the password?";
+
+/* Class = "UILabel"; text = "الشروط والاحكام"; ObjectID = "JwK-kn-DQl"; */
+"JwK-kn-DQl.text" = "Terms and Conditions";
+
+/* Class = "UITextView"; text = "+2001211090887 "; ObjectID = "K2v-4B-XOl"; */
+"K2v-4B-XOl.text" = "+2001211090887 ";
+
+/* Class = "UILabel"; text = "القسم"; ObjectID = "KE4-bA-cKE"; */
+"KE4-bA-cKE.text" = "Category";
+
+/* Class = "UILabel"; text = "شكرا لتسجيلك معانا فى برنامج بيتى"; ObjectID = "KF0-UZ-Xch"; */
+"KF0-UZ-Xch.text" = "Thank you for registering with us in my program";
+
+/* Class = "UILabel"; text = "تأكيد كلمة المرور"; ObjectID = "KIN-N8-kig"; */
+"KIN-N8-kig.text" = "Password confirmation";
+
+/* Class = "UILabel"; text = "تفاصيل القسم"; ObjectID = "MD4-38-Tco"; */
+"MD4-38-Tco.text" = "Category description";
+
+/* Class = "UILabel"; text = "Choose Place"; ObjectID = "MaE-LK-T0Z"; */
+"MaE-LK-T0Z.text" = "Choose Place";
+
+/* Class = "UILabel"; text = "أكبر الخصومات"; ObjectID = "MaY-jj-NGp"; */
+"MaY-jj-NGp.text" = "Biggest Discounts";
+
+/* Class = "UIButton"; normalTitle = "الغاء"; ObjectID = "MjE-72-F3E"; */
+"MjE-72-F3E.normalTitle" = "cancel";
+
+/* Class = "UILabel"; text = "رقم الهاتف"; ObjectID = "Msm-Dg-51X"; */
+"Msm-Dg-51X.text" = "Phone number";
+
+/* Class = "UILabel"; text = "هناك حقيقة مثبتة"; ObjectID = "N5P-Yi-QgG"; */
+"N5P-Yi-QgG.text" = "There is a proven fact";
+
+/* Class = "UILabel"; text = "من فضلك اكتب البريد الإلكترونى كى يتم ارسال كود التأكيد"; ObjectID = "NJD-P3-1se"; */
+"NJD-P3-1se.text" = "Please type your e-mail to send a verification code";
+
+/* Class = "UILabel"; text = "أكمل بيانات مشروعك"; ObjectID = "NOa-RQ-CY4"; */
+"NOa-RQ-CY4.text" = "Complete your project data";
+
+/* Class = "UILabel"; text = "العنوان"; ObjectID = "NyR-ul-16r"; */
+"NyR-ul-16r.text" = "Address";
+
+/* Class = "UILabel"; text = "اسم المنتج"; ObjectID = "O26-oZ-jF0"; */
+"O26-oZ-jF0.text" = "Product name";
+
+/* Class = "UILabel"; text = "السعر"; ObjectID = "OR9-VU-vMm"; */
+"OR9-VU-vMm.text" = "price";
+
+/* Class = "UILabel"; text = "الامس"; ObjectID = "Ofl-Nt-DFn"; */
+"Ofl-Nt-DFn.text" = "yesterday";
+
+/* Class = "UILabel"; text = "اسم المشروع"; ObjectID = "Oty-lh-KhV"; */
+"Oty-lh-KhV.text" = "Project name";
+
+/* Class = "UILabel"; text = "كلمة المرور الجديدة"; ObjectID = "P1o-KR-ukP"; */
+"P1o-KR-ukP.text" = "new password";
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "PHh-TU-CUf"; */
+"PHh-TU-CUf.normalTitle" = "Search";
+
+/* Class = "UILabel"; text = "سيتم تفعيل عضويتكم قريبا انتظر الموافقة على الطلب"; ObjectID = "PK3-M5-jib"; */
+"PK3-M5-jib.text" = "Your membership will be activated soon Wait for the application to be approved";
+
+/* Class = "UILabel"; text = "المنطقة"; ObjectID = "PKB-jf-MjI"; */
+"PKB-jf-MjI.text" = "City";
+
+/* Class = "UILabel"; text = "%50"; ObjectID = "Pxe-pq-r95"; */
+"Pxe-pq-r95.text" = "%50";
+
+/* Class = "UILabel"; text = "كلمة المرور الجديدة"; ObjectID = "Q1B-36-5nu"; */
+"Q1B-36-5nu.text" = "new password";
+
+/* Class = "UILabel"; text = "منتجات المشروع"; ObjectID = "QKd-HB-xyZ"; */
+"QKd-HB-xyZ.text" = "Project Products";
+
+/* Class = "UILabel"; text = "معلومات المشروع"; ObjectID = "Qbm-LF-rbz"; */
+"Qbm-LF-rbz.text" = "Project info";
+
+/* Class = "UILabel"; text = "مشروعى"; ObjectID = "Qkk-qs-WmS"; */
+"Qkk-qs-WmS.text" = "My project";
+
+/* Class = "UILabel"; text = "الشكاوى و الاقتراحات"; ObjectID = "Rhj-N8-49E"; */
+"Rhj-N8-49E.text" = "Complaints and Suggestions";
+
+/* Class = "UITextView"; text = "تاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف ولوكيشنتاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم تاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف ولوكيشنتاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف ولوكيشنتاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف ولوكيشنتاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم تاب تالت اسمه تواصل تاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف ولوكيشنتاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم تاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف ولوكيشنتاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف ولوكيشنتاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف ولوكيشنتاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم تاب تالت اسمه تواصل تاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف ولوكيشنتاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم تاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف ولوكيشنتاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف ولوكيشنتاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف ولوكيشنتاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم تاب تالت اسمه تواصل "; ObjectID = "S6W-4o-OUA"; */
+"S6W-4o-OUA.text" = "تاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف ولوكيشنتاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم تاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف ولوكيشنتاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف ولوكيشنتاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف ولوكيشنتاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم تاب تالت اسمه تواصل تاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف ولوكيشنتاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم تاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف ولوكيشنتاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف ولوكيشنتاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف ولوكيشنتاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم تاب تالت اسمه تواصل تاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف ولوكيشنتاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم تاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف ولوكيشنتاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف ولوكيشنتاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف ولوكيشنتاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم تاب تالت اسمه تواصل ";
+
+/* Class = "UILabel"; text = "محرك البحث"; ObjectID = "S9m-5K-CjN"; */
+"S9m-5K-CjN.text" = "Searching...";
+
+/* Class = "UILabel"; text = "اسم المنتج"; ObjectID = "SDn-d4-u4S"; */
+"SDn-d4-u4S.text" = "Product name";
+
+/* Class = "UILabel"; text = "العنوان"; ObjectID = "SOS-x0-4Z9"; */
+"SOS-x0-4Z9.text" = "Address";
+
+/* Class = "UILabel"; text = "عن التطبيق"; ObjectID = "Srm-if-xyo"; */
+"Srm-if-xyo.text" = "About App";
+
+/* Class = "UILabel"; text = "معلومات المشروع"; ObjectID = "Sxw-3K-1Qa"; */
+"Sxw-3K-1Qa.text" = "Project info";
+
+/* Class = "UIButton"; normalTitle = "اترك رسالة"; ObjectID = "T1X-kj-0aH"; */
+"T1X-kj-0aH.normalTitle" = "Leave a message";
+
+/* Class = "UITextField"; placeholder = "   Choose Place"; ObjectID = "T3T-DH-O0i"; */
+"T3T-DH-O0i.placeholder" = "   Choose Place";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "TMb-d1-Zen"; */
+"TMb-d1-Zen.normalTitle" = "English";
+
+/* Class = "UILabel"; text = "مشروعى"; ObjectID = "TaZ-I3-iFW"; */
+"TaZ-I3-iFW.text" = "My project";
+
+/* Class = "UIButton"; normalTitle = "متابعة"; ObjectID = "TbY-pf-HT5"; */
+"TbY-pf-HT5.normalTitle" = "Continue";
+
+/* Class = "UILabel"; text = "كلمة المرور"; ObjectID = "U64-3j-3kr"; */
+"U64-3j-3kr.text" = "Password";
+
+/* Class = "UILabel"; text = "mostafa.elsanadidy@gmail.com mostafa.elsanadidy@gmail.com"; ObjectID = "Uhc-57-scP"; */
+"Uhc-57-scP.text" = "mostafa.elsanadidy@gmail.com mostafa.elsanadidy@gmail.com";
+
+/* Class = "UILabel"; text = "اختر المدينة"; ObjectID = "Uhr-1T-sYL"; */
+"Uhr-1T-sYL.text" = "Choose City";
+
+/* Class = "UIButton"; normalTitle = "إضافة منتج"; ObjectID = "VJc-ws-z2q"; */
+"VJc-ws-z2q.normalTitle" = "Add product";
+
+/* Class = "UIButton"; normalTitle = "تسجيل الدخول"; ObjectID = "WE4-3E-saG"; */
+"WE4-3E-saG.normalTitle" = "login";
+
+/* Class = "UILabel"; text = "تذكرنى"; ObjectID = "WGv-kH-Cdx"; */
+"WGv-kH-Cdx.text" = "Remember me";
+
+/* Class = "UILabel"; text = "أكبر الخصومات"; ObjectID = "WW2-xn-fhG"; */
+"WW2-xn-fhG.text" = "Biggest Discounts";
+
+/* Class = "UITextField"; placeholder = "image"; ObjectID = "Wve-1n-1ms"; */
+"Wve-1n-1ms.placeholder" = "image";
+
+/* Class = "UILabel"; text = "عن التطبيق"; ObjectID = "X2f-5k-e0w"; */
+"X2f-5k-e0w.text" = "About App";
+
+/* Class = "UITextField"; placeholder = "$220"; ObjectID = "XLq-gd-AG0"; */
+"XLq-gd-AG0.placeholder" = "$220";
+
+/* Class = "UIButton"; normalTitle = "مشاهدة المزيد"; ObjectID = "XMH-Ge-XQc"; */
+"XMH-Ge-XQc.normalTitle" = "see more";
+
+/* Class = "UILabel"; text = "قم بإختيار نوع العضوية"; ObjectID = "Y3J-kp-NcV"; */
+"Y3J-kp-NcV.text" = "Select Membership Type";
+
+/* Class = "UILabel"; text = "رقم الهاتف"; ObjectID = "Y9b-RY-Fmm"; */
+"Y9b-RY-Fmm.text" = "Phone number";
+
+/* Class = "UILabel"; text = "$220"; ObjectID = "YHD-im-gXA"; */
+"YHD-im-gXA.text" = "$220";
+
+/* Class = "UITextView"; text = "+2001211090887 "; ObjectID = "YO6-mO-EgF"; */
+"YO6-mO-EgF.text" = "+2001211090887 ";
+
+/* Class = "UIButton"; normalTitle = "حفظ"; ObjectID = "YTZ-da-eoL"; */
+"YTZ-da-eoL.normalTitle" = "save";
+
+/* Class = "UILabel"; text = "شعار المشروع مفرغ بصيغة png"; ObjectID = "YTu-i8-ImN"; */
+"YTu-i8-ImN.text" = "Project Logo Unloaded in PNG";
+
+/* Class = "UILabel"; text = "اللغة"; ObjectID = "YV7-kr-6fr"; */
+"YV7-kr-6fr.text" = "Language";
+
+/* Class = "UIButton"; normalTitle = "الغاء"; ObjectID = "Yfu-cA-aYE"; */
+"Yfu-cA-aYE.normalTitle" = "cancel";
+
+/* Class = "UILabel"; text = "(الملابس)"; ObjectID = "YtQ-hk-93X"; */
+"YtQ-hk-93X.text" = "(clothes)";
+
+/* Class = "UIButton"; normalTitle = "متابعة"; ObjectID = "Z67-go-f71"; */
+"Z67-go-f71.normalTitle" = "Continue";
+
+/* Class = "UITextField"; placeholder = "   Restaurant Name"; ObjectID = "Z8a-UU-bHs"; */
+"Z8a-UU-bHs.placeholder" = "   Restaurant Name";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "ZSM-h9-ew8"; */
+"ZSM-h9-ew8.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "ZVk-fs-LrC"; */
+"ZVk-fs-LrC.title" = "Item";
+
+/* Class = "UITextField"; placeholder = "اختر المنطقة"; ObjectID = "Zep-sv-00a"; */
+"Zep-sv-00a.placeholder" = "Choose city";
+
+/* Class = "UILabel"; text = "شعار المشروع"; ObjectID = "ZyL-sJ-bOA"; */
+"ZyL-sJ-bOA.text" = "Project Logo";
+
+/* Class = "UITextField"; placeholder = "اختر المنطقة"; ObjectID = "aQg-Xx-cov"; */
+"aQg-Xx-cov.placeholder" = "Choose city";
+
+/* Class = "UIButton"; normalTitle = "تسجيل الخروج"; ObjectID = "acc-HZ-uYk"; */
+"acc-HZ-uYk.normalTitle" = "Sign out";
+
+/* Class = "UILabel"; text = "شكرا لتسجيلك معانا فى برنامج بيتى"; ObjectID = "adY-tP-TWl"; */
+"adY-tP-TWl.text" = "Thank you for registering with us in my program";
+
+/* Class = "UILabel"; text = "الوصف"; ObjectID = "ah7-gE-SVc"; */
+"ah7-gE-SVc.text" = "Description";
+
+/* Class = "UILabel"; text = "القسم"; ObjectID = "aiU-RQ-ujm"; */
+"aiU-RQ-ujm.text" = "Category";
+
+/* Class = "UILabel"; text = "ارفق الشعار"; ObjectID = "ak5-Mu-eHG"; */
+"ak5-Mu-eHG.text" = "Attach logo";
+
+/* Class = "UILabel"; text = "للمتابعة على صفحتنا"; ObjectID = "al6-5x-jUL"; */
+"al6-5x-jUL.text" = "To continue on our page";
+
+/* Class = "UILabel"; text = "اللغة"; ObjectID = "ay3-3k-ZSO"; */
+"ay3-3k-ZSO.text" = "Language";
+
+/* Class = "UILabel"; text = "كلمة المرور"; ObjectID = "b3H-cf-Wim"; */
+"b3H-cf-Wim.text" = "Password";
+
+/* Class = "UILabel"; text = "اعرض مشروعك"; ObjectID = "b6k-61-akC"; */
+"b6k-61-akC.text" = "Show Your Project";
+
+/* Class = "UILabel"; text = "اسم المنتج"; ObjectID = "bYg-0K-KqT"; */
+"bYg-0K-KqT.text" = "Product name";
+
+/* Class = "UILabel"; text = "نبذة عن المشروع"; ObjectID = "bkm-tw-Stc"; */
+"bkm-tw-Stc.text" = "About the project";
+
+/* Class = "UILabel"; text = "للمراسلة عبر البريد الالكترونى"; ObjectID = "bnL-Fb-EyU"; */
+"bnL-Fb-EyU.text" = "For emailing";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bs7-oq-Re1"; */
+"bs7-oq-Re1.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "رقم الهاتف"; ObjectID = "cB5-3X-VjM"; */
+"cB5-3X-VjM.text" = "Phone number";
+
+/* Class = "UITextView"; text = "تاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف تاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف تاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف تاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتفتاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف تاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف تاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف تاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتفتاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف تاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف تاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف تاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف "; ObjectID = "caL-Iw-nn6"; */
+"caL-Iw-nn6.text" = "تاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف تاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف تاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف تاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتفتاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف تاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف تاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف تاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتفتاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف تاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف تاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف تاب تالت اسمه تواصل وبه بيانات تواصل ايميل ورقم هاتف ";
+
+/* Class = "UILabel"; text = "إداراة الموقع"; ObjectID = "cbc-hy-G4Q"; */
+"cbc-hy-G4Q.text" = "Site Management";
+
+/* Class = "UILabel"; text = "شعار المشروع مفرغ بصيغة png"; ObjectID = "cr5-b6-cdL"; */
+"cr5-b6-cdL.text" = "Project Logo Unloaded in PNG";
+
+/* Class = "UILabel"; text = "10.50 م"; ObjectID = "dBQ-gM-XYD"; */
+"dBQ-gM-XYD.text" = "10.50 م";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dHh-o0-pQE"; */
+"dHh-o0-pQE.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "الغاء"; ObjectID = "dTO-t4-Bxo"; */
+"dTO-t4-Bxo.normalTitle" = "cancel";
+
+/* Class = "UILabel"; text = "الوصف"; ObjectID = "dXa-q9-dEP"; */
+"dXa-q9-dEP.text" = "Description";
+
+/* Class = "UIButton"; normalTitle = "مشروعى"; ObjectID = "dag-nb-QwB"; */
+"dag-nb-QwB.normalTitle" = "My project";
+
+/* Class = "UILabel"; text = "البريد الالكترونى"; ObjectID = "dvj-4e-cb4"; */
+"dvj-4e-cb4.text" = "Email";
+
+/* Class = "UIButton"; normalTitle = "حفظ"; ObjectID = "eBi-Ht-xHv"; */
+"eBi-Ht-xHv.normalTitle" = "save";
+
+/* Class = "UITextView"; text = "search for project"; ObjectID = "eHZ-Aq-DMx"; */
+"eHZ-Aq-DMx.text" = "search for project";
+
+/* Class = "UIButton"; normalTitle = "إنشاء حساب"; ObjectID = "eKs-Yd-N3o"; */
+"eKs-Yd-N3o.normalTitle" = "Create an account";
+
+/* Class = "UIButton"; normalTitle = "إنشاء حساب"; ObjectID = "eUJ-xN-sJn"; */
+"eUJ-xN-sJn.normalTitle" = "Create an account";
+
+/* Class = "UILabel"; text = "العنوان"; ObjectID = "ecJ-1O-R8e"; */
+"ecJ-1O-R8e.text" = "Address";
+
+/* Class = "UILabel"; text = "•"; ObjectID = "egb-Fg-7NR"; */
+"egb-Fg-7NR.text" = "•";
+
+/* Class = "UILabel"; text = "2019-07-15 16:55:51.034271+0200 IBety[13899:260665] libMobileGestalt MobileGestalt.c:890: MGIsDeviceOneOfType is not supported on this platform.\n                                                        104.0\n                                                        544.5\n                                                        744.5\n                                                        2019-07-15 16:56:24.965535+0200 IBety[13899:260665] [UIWorkIntervalTiming] workIntervalStart: startTimestamp > targetTimestamp; rolling forward by 13.033334\n                                                        2019-07-15 16:57:18.068217+0200 IBety[13899:260665] [UIWorkIntervalTiming] workIntervalStart: startTimestamp > targetTimestamp; rolling forward by 45.933334هناك حقيقة مثبتة منذ زمن "; ObjectID = "f5r-QC-V1Y"; */
+"f5r-QC-V1Y.text" = "2019-07-15 16:55:51.034271+0200 IBety[13899:260665] libMobileGestalt MobileGestalt.c:890: MGIsDeviceOneOfType is not supported on this platform.\n                                                        104.0\n                                                        544.5\n                                                        744.5\n                                                        2019-07-15 16:56:24.965535+0200 IBety[13899:260665] [UIWorkIntervalTiming] workIntervalStart: startTimestamp > targetTimestamp; rolling forward by 13.033334\n                                                        2019-07-15 16:57:18.068217+0200 IBety[13899:260665] [UIWorkIntervalTiming] workIntervalStart: startTimestamp > targetTimestamp; rolling forward by 45.933334هناك حقيقة مثبتة منذ زمن ";
+
+/* Class = "UILabel"; text = "مشروعى"; ObjectID = "fP7-Kj-5Mi"; */
+"fP7-Kj-5Mi.text" = "My project";
+
+/* Class = "UIButton"; normalTitle = "حفظ"; ObjectID = "fgi-NL-wkV"; */
+"fgi-NL-wkV.normalTitle" = "save";
+
+/* Class = "UILabel"; text = "إدخال رمز التحقق"; ObjectID = "fkO-HE-0ns"; */
+"fkO-HE-0ns.text" = "Enter verification code";
+
+/* Class = "UILabel"; text = "أكبر الخصومات"; ObjectID = "flc-E2-XAP"; */
+"flc-E2-XAP.text" = "Biggest Discounts";
+
+/* Class = "UILabel"; text = "محتوى الرسالة"; ObjectID = "fmF-4v-G9R"; */
+"fmF-4v-G9R.text" = "Message content";
+
+/* Class = "UILabel"; text = "تجهيز مناسبات"; ObjectID = "fvr-pT-6Vk"; */
+"fvr-pT-6Vk.text" = "Processing Events";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "g9d-YT-xk0"; */
+"g9d-YT-xk0.title" = "Item";
+
+/* Class = "UILabel"; text = "إنشاء حساب"; ObjectID = "gWK-y9-6aI"; */
+"gWK-y9-6aI.text" = "Create an account";
+
+/* Class = "UITextView"; text = "منتجات يدوية"; ObjectID = "gsG-YQ-nNX"; */
+"gsG-YQ-nNX.text" = "Hand Made Products";
+
+/* Class = "UILabel"; text = "من فضلك اكتب كلمة السر الجديدة"; ObjectID = "gtS-sa-dRi"; */
+"gtS-sa-dRi.text" = "Please type your new password";
+
+/* Class = "UILabel"; text = "شعار المشروع مفرغ بصيغة png"; ObjectID = "hHF-BS-Hnc"; */
+"hHF-BS-Hnc.text" = "Project Logo Unloaded in PNG";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "hS1-rb-NIv"; */
+"hS1-rb-NIv.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "أكبر الخصومات"; ObjectID = "hYc-lS-Rox"; */
+"hYc-lS-Rox.text" = "Biggest Discounts";
+
+/* Class = "UIButton"; normalTitle = "الغاء"; ObjectID = "hd3-ug-P4b"; */
+"hd3-ug-P4b.normalTitle" = "cancel";
+
+/* Class = "UITextField"; placeholder = "اختر المنطقة"; ObjectID = "hoh-gi-Sfm"; */
+"hoh-gi-Sfm.placeholder" = "Choose city";
+
+/* Class = "UILabel"; text = "فى حالة وجود اى شكاوى يرجى التواصل على الرقم التالى"; ObjectID = "i6I-rv-GNx"; */
+"i6I-rv-GNx.text" = "In case of any complaints please contact the following number";
+
+/* Class = "UIButton"; normalTitle = "معلومات التواصل"; ObjectID = "iGA-w4-CJ7"; */
+"iGA-w4-CJ7.normalTitle" = "Communication info";
+
+/* Class = "UITextView"; text = "اكتب وصف المنتج"; ObjectID = "iZq-Pr-IeK"; */
+"iZq-Pr-IeK.text" = "Type Product Description";
+
+/* Class = "UITextView"; text = "+2001211090887 "; ObjectID = "j7v-0W-MSp"; */
+"j7v-0W-MSp.text" = "+2001211090887 ";
+
+/* Class = "UILabel"; text = "الاسم"; ObjectID = "jI9-id-MZe"; */
+"jI9-id-MZe.text" = "Name";
+
+/* Class = "UILabel"; text = "اسم المنتج"; ObjectID = "jMO-3A-B8e"; */
+"jMO-3A-B8e.text" = "Product name";
+
+/* Class = "UILabel"; text = "اتصل بنا"; ObjectID = "jzh-e3-AMV"; */
+"jzh-e3-AMV.text" = "call us";
+
+/* Class = "UIButton"; normalTitle = "صاحب مشروع"; ObjectID = "kBr-t7-iEb"; */
+"kBr-t7-iEb.normalTitle" = "Owner";
+
+/* Class = "UILabel"; text = "الامس"; ObjectID = "kWg-NN-ctg"; */
+"kWg-NN-ctg.text" = "yesterday";
+
+/* Class = "UIButton"; normalTitle = "ارسال"; ObjectID = "kd1-jf-iSu"; */
+"kd1-jf-iSu.normalTitle" = "send";
+
+/* Class = "UILabel"; text = "مشروعى"; ObjectID = "kmI-aC-lhv"; */
+"kmI-aC-lhv.text" = "My project";
+
+/* Class = "UIButton"; normalTitle = "مشاهدة المزيد"; ObjectID = "lNH-bU-4ZR"; */
+"lNH-bU-4ZR.normalTitle" = "see more";
+
+/* Class = "UILabel"; text = "للمتابعة على صفحتنا"; ObjectID = "lNR-eI-t8U"; */
+"lNR-eI-t8U.text" = "To continue on our page";
+
+/* Class = "UILabel"; text = "تواصل معنا"; ObjectID = "lqg-dw-WCt"; */
+"lqg-dw-WCt.text" = "Contact with us";
+
+/* Class = "UIButton"; normalTitle = "skip"; ObjectID = "mDS-s0-2SY"; */
+"mDS-s0-2SY.normalTitle" = "skip";
+
+/* Class = "UILabel"; text = "إضافة منتج"; ObjectID = "mDh-Vd-daQ"; */
+"mDh-Vd-daQ.text" = "Add product";
+
+/* Class = "UILabel"; text = "تواصل معنا"; ObjectID = "maI-o4-fj2"; */
+"maI-o4-fj2.text" = "Contact with us";
+
+/* Class = "UIButton"; normalTitle = "مشاهدة المزيد"; ObjectID = "mjR-bt-exd"; */
+"mjR-bt-exd.normalTitle" = "see more";
+
+/* Class = "UIButton"; normalTitle = "حفظ"; ObjectID = "myx-8F-9YY"; */
+"myx-8F-9YY.normalTitle" = "save";
+
+/* Class = "UILabel"; text = "10.50 م"; ObjectID = "n6k-pf-b1X"; */
+"n6k-pf-b1X.text" = "10.50 م";
+
+/* Class = "UILabel"; text = "للمتابعة على صفحتنا"; ObjectID = "n93-Pc-RbG"; */
+"n93-Pc-RbG.text" = "To continue on our page";
+
+/* Class = "UILabel"; text = "معلومات المشروع"; ObjectID = "nHF-JX-rOY"; */
+"nHF-JX-rOY.text" = "Project info";
+
+/* Class = "UIButton"; normalTitle = "تسجيل جديد"; ObjectID = "nSd-uM-10r"; */
+"nSd-uM-10r.normalTitle" = "new account";
+
+/* Class = "UILabel"; text = "•"; ObjectID = "nUY-8z-Vz9"; */
+"nUY-8z-Vz9.text" = "•";
+
+/* Class = "UIButton"; normalTitle = "حفظ"; ObjectID = "nWv-ja-WM4"; */
+"nWv-ja-WM4.normalTitle" = "save";
+
+/* Class = "UIButton"; normalTitle = "منتجات المشروعات"; ObjectID = "nyA-ph-luE"; */
+"nyA-ph-luE.normalTitle" = "Project Products";
+
+/* Class = "UILabel"; text = "رقم الهاتف"; ObjectID = "oH1-11-19E"; */
+"oH1-11-19E.text" = "Phone number";
+
+/* Class = "UILabel"; text = "منتجات المشروعات"; ObjectID = "oge-De-qqe"; */
+"oge-De-qqe.text" = "Project Products";
+
+/* Class = "UITextView"; text = "اسم المشروع"; ObjectID = "p5L-bZ-smu"; */
+"p5L-bZ-smu.text" = "Project name";
+
+/* Class = "UILabel"; text = "اللغة"; ObjectID = "pA0-Tj-TR9"; */
+"pA0-Tj-TR9.text" = "Language";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "pie-GM-MEb"; */
+"pie-GM-MEb.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "معلومات المشروع"; ObjectID = "qfb-t7-hNE"; */
+"qfb-t7-hNE.normalTitle" = "Project info";
+
+/* Class = "UITextView"; text = "search for project"; ObjectID = "qwp-8V-F0h"; */
+"qwp-8V-F0h.text" = "search for project";
+
+/* Class = "UIButton"; normalTitle = "إضافة منتج"; ObjectID = "rHc-Fa-Kmo"; */
+"rHc-Fa-Kmo.normalTitle" = "Add product";
+
+/* Class = "UILabel"; text = "البريد الالكترونى"; ObjectID = "rS9-Ob-W2s"; */
+"rS9-Ob-W2s.text" = "Email";
+
+/* Class = "UILabel"; text = "هناك حقيقة مثبتة منذ زمن طويلهناك حقيقة مثبتة منذ زمن طويلهناك حقيقة مثبتة منذ زمن طويلهناك حقيقة مثبتة منذ زمن طويل"; ObjectID = "rby-UA-9yQ"; */
+"rby-UA-9yQ.text" = "There is a long-established fact, there is a long-established fact, there is a long-established fact, a long-established fact.";
+
+/* Class = "UILabel"; text = "تجهيز مناسبات"; ObjectID = "reC-NX-gh5"; */
+"reC-NX-gh5.text" = "Processing Events";
+
+/* Class = "UIButton"; normalTitle = "مشاهدة المزيد"; ObjectID = "rwV-vl-YEM"; */
+"rwV-vl-YEM.normalTitle" = "see more";
+
+/* Class = "UILabel"; text = "مشروعى"; ObjectID = "s0D-no-S9T"; */
+"s0D-no-S9T.text" = "My project";
+
+/* Class = "UIButton"; normalTitle = "حفظ"; ObjectID = "sfN-mo-XF3"; */
+"sfN-mo-XF3.normalTitle" = "save";
+
+/* Class = "UIButton"; normalTitle = "الغاء"; ObjectID = "soC-Vc-f31"; */
+"soC-Vc-f31.normalTitle" = "cancel";
+
+/* Class = "UIButton"; normalTitle = "لغة عربية"; ObjectID = "sw7-ED-6ub"; */
+"sw7-ED-6ub.normalTitle" = "Arabic Language";
+
+/* Class = "UIButton"; normalTitle = "اللغة (العربية)"; ObjectID = "uNm-ov-Sbx"; */
+"uNm-ov-Sbx.normalTitle" = "(English) Language";
+
+/* Class = "UITextView"; text = "منتجات يدوية"; ObjectID = "vZj-fX-1rG"; */
+"vZj-fX-1rG.text" = "Hand Made Products";
+
+/* Class = "UILabel"; text = "اسم المستخدم"; ObjectID = "vdr-vt-TK9"; */
+"vdr-vt-TK9.text" = "Username";
+
+/* Class = "UILabel"; text = "$220"; ObjectID = "wAX-MN-9Si"; */
+"wAX-MN-9Si.text" = "$220";
+
+/* Class = "UIButton"; normalTitle = "تسجيل الخروج"; ObjectID = "wYe-Gu-nRf"; */
+"wYe-Gu-nRf.normalTitle" = "Sign out";
+
+/* Class = "UILabel"; text = "البريد الالكترونى"; ObjectID = "wfp-gH-XdO"; */
+"wfp-gH-XdO.text" = "Email";
+
+/* Class = "UIButton"; normalTitle = "منتجات المشروعات"; ObjectID = "x30-lb-faU"; */
+"x30-lb-faU.normalTitle" = "Project Products";
+
+/* Class = "UITextField"; placeholder = "اختر المنطقة"; ObjectID = "x87-lO-mXc"; */
+"x87-lO-mXc.placeholder" = "Choose city";
+
+/* Class = "UILabel"; text = "المنطقة"; ObjectID = "xQm-CD-1RK"; */
+"xQm-CD-1RK.text" = "City";
+
+/* Class = "UITextField"; placeholder = "منتجات يدوية"; ObjectID = "xia-Kv-k9Q"; */
+"xia-Kv-k9Q.placeholder" = "Hand Made Products";
+
+/* Class = "UITabBarItem"; title = "Item 1"; ObjectID = "y1X-RH-8Kb"; */
+"y1X-RH-8Kb.title" = "Item 1";
+
+/* Class = "UILabel"; text = "صور المنتجات"; ObjectID = "y3v-ip-15A"; */
+"y3v-ip-15A.text" = "Products images";
+
+/* Class = "UISegmentedControl"; y6Z-U8-wWK.segmentTitles[0] = "First"; ObjectID = "y6Z-U8-wWK"; */
+"y6Z-U8-wWK.segmentTitles[0]" = "First";
+
+/* Class = "UISegmentedControl"; y6Z-U8-wWK.segmentTitles[1] = "Second"; ObjectID = "y6Z-U8-wWK"; */
+"y6Z-U8-wWK.segmentTitles[1]" = "Second";
+
+/* Class = "UILabel"; text = "سيتم تفعيل عضويتكم قريبا سيرسل لك رسالة تفعيل على الايميل المسجل لدينا..."; ObjectID = "yTh-Q8-pQ3"; */
+"yTh-Q8-pQ3.text" = "Your membership will be activated soon and you will be sent an activation message on our registered email ...";
+
+/* Class = "UITextField"; placeholder = "اختر المنطقة"; ObjectID = "zD2-cY-JJC"; */
+"zD2-cY-JJC.placeholder" = "Choose city";
+
+/* Class = "UIButton"; normalTitle = "الغاء"; ObjectID = "zIb-gT-XWG"; */
+"zIb-gT-XWG.normalTitle" = "cancel";
+
+/* Class = "UILabel"; text = "صورة المنتج"; ObjectID = "zOa-42-mVf"; */
+"zOa-42-mVf.text" = "Product image";
+
+/* Class = "UILabel"; text = "السعر"; ObjectID = "ze5-pq-Dxd"; */
+"ze5-pq-Dxd.text" = "Price";

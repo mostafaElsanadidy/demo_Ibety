@@ -1,0 +1,43 @@
+/* 
+  Localizable.strings
+  NewIBety
+
+  Created by mostafa elsanadidy on 9/21/19.
+  Copyright © 2019 mostafa elsanadidy. All rights reserved.
+*/
+
+"create_account" = "انشاء حساب";
+"search for project" = "بحث عن المشروع";
+"Profile Personly" = "الملف الشخصى";
+"Language" = "اللغة";
+"About The Application" = "حول التطبيق";
+"Continue With US" = "تواصل معانا";
+"Advertising" = "الاعلانات";
+"Sending Message" = "ارسال رسالة";
+"Notifications" = "الاشعارات";
+"Searching" = "محرك البحث";
+"Add Your Project" = "أضف مشروعك";
+"Display Your Project" = "أعرض مشروعك";
+"Win Your Project" = "أربح مشروعك";
+"Did you know that Winnie the chubby little cubby was based on a real, young bear in London" = "هل تعلم أن ويني ذي الحشوة الصغيرة السمين كانت مبنية على دب صغير حقيقي في لندن";
+"Phone Number" = "رقم الهاتف";
+"project name" = "اسم المشروع";
+"Type Product Description" = "اكتب وصف المنتج";
+"Hand Products" = "منتجات يدوية";
+"Project Info" = "معلومات المشروع";
+"Communication Info" = "معلومات التواصل";
+"Project Products" = "منتجات المشروع";
+
+"Thank you for registering with us in my program" = "شكرا لتسجيلك معانا فى برنامج بيتى";
+"Your membership will be activated shortly..." = "سيتم تفعيل عضويتكم قريبا سيرسل لك رسالة تفعيل على الايميل المسجل لدينا...";
+"Skip" = "تخطى";
+"Your membership will be activated soon Wait for approval" = "سيتم تفعيل عضويتكم قريبا انتظر الموافقة على الطلب";
+"Complete as a visitor" = "اكمل كزائر";
+"sign out" = "تسجيل الخروج";
+
+"Product Addition" = "اضافة منتج";
+"Product Update" = "تعديل منتج";
+"Update" = "تعديل";
+"ADD" = "اضافة";
+"Please type confirmation code if no confirmation code is sent" = "من فضلك اكتب كود التأكيد لو لم يرسل كود التاكيد" ;
+"Please type your new password" = "من فضلك اكتب كلمة السر الجديدة" ;
